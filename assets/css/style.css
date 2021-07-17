@@ -94,7 +94,7 @@ header a:hover{
 #showcase{
     min-height: 25rem;
     background: url('../images/backgroundimg.jpg') 0  -25rem;
-    background-size: 1285px 750px;
+    background-size: 80.3125rem 46.875rem;
     text-align: center;
     color: orangered;
 }
@@ -213,9 +213,8 @@ footer{
         padding: 0 .25em 0 .25em;
     }
 
-    #showcase{
-    background: url('../images/backgroundimg.jpg') 0  -25rem;
-    background-size: 500px 300px;
+    /* #showcase{
+    background-size: 500px 300px; */
 }
 
 }
