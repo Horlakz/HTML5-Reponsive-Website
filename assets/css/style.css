@@ -213,4 +213,9 @@ footer{
         padding: 0 .25em 0 .25em;
     }
 
+    #showcase{
+    background: url('../images/backgroundimg.jpg') 0  -25rem;
+    background-size: 500px 300px;
+}
+
 }
